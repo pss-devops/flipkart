@@ -1,2 +1,6 @@
 hi everyone
+<<<<<<< HEAD
 changed to master branch
+=======
+changing this to debug branch
+>>>>>>> debug
